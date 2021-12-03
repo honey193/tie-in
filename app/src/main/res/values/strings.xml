@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tie-IN</string>
+    <string name="welcome_message">Welcome to Tie-IN</string>
+    <string name="enter_your_details_below">Enter your details below</string>
+    <string name="create_an_account_title">Create An Account</string>
+    <string name="phone_number">Phone Number*</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number*</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name*</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in_an_account_title">Sign in to an Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
